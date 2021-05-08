@@ -8,7 +8,7 @@ vim +PluginInstall +qall
 
 # Plugin Link
 ```
-'nanotech/jellybeans.vim' - https://github.com/nanotech/jellybeans.vim
+[nanotech/jellybeans.vim] - (https://github.com/nanotech/jellybeans.vim)
 'majutsushi/tagbar' - https://github.com/majutsushi/tagbar​
 'scrooloose/nerdtree' - https://github.com/scrooloose/nerdtree-git-plugin
 'nathanaelkane/vim-indent-guides' - https://github.com/nathanaelkane/vim-indent-guides
